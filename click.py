@@ -80,3 +80,4 @@ def auto(times = 50):
 		mouse.click(Button.left)
 		time.sleep(3.5)
 	return
+auto()
